@@ -109,14 +109,6 @@ Preferences are saved in `settings.json`. For example, enable/disable JavaScript
 
 ---
 
-### 🛠 Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,python,java,cpp,c,photoshop,sass,electron" />
-</p>
-
----
-
 ## 📜 License
 
 MIT License © 2025 Parthiv Binish
