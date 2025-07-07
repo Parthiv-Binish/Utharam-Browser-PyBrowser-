@@ -1,23 +1,3 @@
-<!-- Custom pixel-style animated welcome banner in purple -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=WELCOME+TO+MY+WORLD!;Crafting+Code+With+Passion!&color=8000FF" />
-</p>
-
-<!-- Pixel-style animated banner -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Parthiv%20Binish&fontSize=40&fontAlignY=35&desc=Creator%20of%20Utharam%20Browser%20|%20Educator%20%26%20Developer&descAlignY=60&descAlign=62" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parthiv-binish&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Welcome%20to%20my%20profile-Heart-pink" />
-</p>
-
-<h3 align="center">Turning Ideas into Scalable Solutions | Progressive Software Solutions & Training</h3>
-
----
 
 # 🧭 Utharam Browser
 
