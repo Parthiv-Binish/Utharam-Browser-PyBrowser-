@@ -55,6 +55,7 @@ class AboutDialog(QDialog):
             <li>Chrome-like interface</li>
         </ul>
         """)
+        desc.setStyleSheet("color: black;")
         desc.setStyleSheet("color: #e8eaed;")
         desc.setWordWrap(True)
         layout.addWidget(desc)

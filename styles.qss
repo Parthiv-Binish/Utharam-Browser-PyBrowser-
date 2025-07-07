@@ -89,7 +89,7 @@ QMenu::separator {
 
 /* Dialogs */
 QDialog {
-    background: #ffffff;
+    background:rgb(0, 0, 0);
     color: #202124;
 }
 
