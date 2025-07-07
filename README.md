@@ -105,7 +105,7 @@ Preferences are saved in `settings.json`. For example, enable/disable JavaScript
 
 ## 📎 GitHub
 
-[🔗 Utharam on GitHub](https://github.com/Parthiv-Binish/Utharam-Browser-PyBrowser)
+[🔗 Utharam on GitHub](https://github.com/Parthiv-Binish/Utharam-Browser-PyBrowser-)
 
 ---
 
